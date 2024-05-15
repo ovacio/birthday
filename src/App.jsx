@@ -8,10 +8,9 @@ function App() {
   return (
     <>
     <div className="container">
-      
+      <h1>Привет</h1>
     </div>
 
-      <h1>Vites + React</h1>
     </>
   )
 }
