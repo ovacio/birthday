@@ -4,3 +4,9 @@
   padding: 2rem;
   text-align: center;
 }
+
+.container{
+  background-image: url('assets/imageBirthday.jpg');
+  width: 500px;
+  height: 800px;
+}

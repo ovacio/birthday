@@ -7,6 +7,10 @@ function App() {
 
   return (
     <>
+    <div className="container">
+      
+    </div>
+
       <h1>Vites + React</h1>
     </>
   )
