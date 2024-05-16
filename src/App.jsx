@@ -15,8 +15,8 @@ function App() {
 				<img src="https://i.imgur.com/BMgUaEl.png" />
 			</div>
 			<span className="happy-bday">
-				<div style="display: block; align-self: center; justify-self: center;">
-					<img src="https://sun9-24.userapi.com/impg/ERGrFsh94nXzoW1t5Bee6LINTP4MUb7KwGNBzQ/pk6s9ZsXXKg.jpg?size=719x719&quality=96&proxy=1&sign=97a5a2eda89eca376e98f080ac63b06a&type=album"></img>
+      <div style={{ display: 'block', alignSelf: 'center', justifySelf: 'center' }}>
+      <img src="https://sun9-24.userapi.com/impg/ERGrFsh94nXzoW1t5Bee6LINTP4MUb7KwGNBzQ/pk6s9ZsXXKg.jpg?size=719x719&quality=96&proxy=1&sign=97a5a2eda89eca376e98f080ac63b06a&type=album" />
 				</div>
 			</span>
 		</div>
