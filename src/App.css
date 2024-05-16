@@ -166,6 +166,7 @@ body {
 .cart-page-inside {
   position: absolute;
   -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
 }
 
 .cart-page-outside {
