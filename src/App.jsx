@@ -38,6 +38,7 @@ const toggleCard = () => {
               title={item.title}
               describe={item.describe}
               describeBr={item.describeBr}
+              describeEnd={item.descirbeEnd}
             />
           ))}
 	</div>
