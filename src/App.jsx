@@ -22,13 +22,19 @@ const toggleCard = () => {
 			</div>
 			<span className="happy-bday">
       <div style={{ display: 'block', alignSelf: 'center', justifySelf: 'center' }}>
-      {/* <img className="photo-card" src='https://i.imgur.com/BNAofdd.jpg' /> */}
+      <img className="photo-card" src='https://i.imgur.com/BNAofdd.jpg' />
+      <img className="photo-card" src='https://i.imgur.com/HH0oMls.jpeg' />
+			</div>
+      <div style={{ display: 'block', alignSelf: 'center', justifySelf: 'center' }}>
+      <img className="photo-card" src='https://i.imgur.com/B0dWus1.jpeg' />
+      <img className="photo-card" src='https://i.imgur.com/GXJ5UIT.jpeg' />
 			</div>
 			</span>
 		</div>
 	</div>
 	<div className="card-page cart-page-bottom">
-		<p><b>С днём рождения!</b><i>Искренне желаем стабильности, головокружительного успеха, невероятных проектов, креативных идей, крутых достижений, уверенности, настойчивости и достойных побед!</i></p>
+		<p><b>С днём рождения!</b><br /><i>Дорогая Кристина, с самыми теплыми пожеланиями в этот особенный день. Пусть каждый момент твоей жизни наполнен радостью, улыбками и любовью. Ты — особенная и неповторимая, я хочу чтобы ты оставалась таким же чудом, как то чудо, которое я положил и чтобы все твои мечты и пожелания всегда сбывались, написанные в блокнотике, который у тебя теперь есть). Желаю, чтобы у тебя появилась: "... летит по ночной Москве
+<br />Скажи им кто мой браза". Будь всегда смелой и открытой для новых возможностей. С любовью и искренними пожеланиями!</i></p>
 	</div>
 </div>
 <span className={`click-icon ${isOpened ? 'is-hidden' : ''}`} onClick={toggleCard}>
